@@ -19,7 +19,13 @@
 * Go to Tools > Wiget Importer & Exporter
 * Upload & Import widgets.wie
 
-# Import Customiser Settings
+## Import Customiser Settings
 * Go to Appearance > Customise
 * Go to Export/Import
 * Upload & import customiser.dat
+
+## Delete Plugins
+* Go to Plugins > Installed Plugins
+* Deactivate and delete Customizer Export/Import
+* Deactivate and delete Widget Importer & Exporter
+* Deactivate and delete Wordpress Importer
